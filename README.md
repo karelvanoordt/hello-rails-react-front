@@ -19,10 +19,6 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the project by using terminal:
 
-```
-git clone https://github.com/adamteddychang/hello-react-front-end.git
-```
-
 cd into the directory:
 
 ```
